@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        task1();
+        task123();
     }
-    public static void task1() {
+    public static void task123() {
         System.out.println("Задание 1");
         String firstName = "Ivan";
         String middleName = "Ivanovich";
